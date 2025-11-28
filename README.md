@@ -52,6 +52,14 @@ Or download the ZIP and extract it.
 
 1. Open the backend project in IntelliJ IDEA, Eclipse, or Spring Tool Suite.  
 2. Go to `src/main/resources/application.properties` and add your OpenWeather API key:
+3. Run the Spring Boot main class:
+4. The backend will start at:
+
+
+### 3. Frontend Setup (HTML, CSS, JavaScript)
+
+1. Open the `weather-frontend` folder.  
+2. Make sure the files are named:
 
 
 
