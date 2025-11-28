@@ -46,3 +46,12 @@ The purpose of this project is to understand how REST APIs work, how to integrat
 
 ### 1. Clone or download the project
 
+Or download the ZIP and extract it.
+
+### 2. Backend Setup (Spring Boot)
+
+1. Open the backend project in IntelliJ IDEA, Eclipse, or Spring Tool Suite.  
+2. Go to `src/main/resources/application.properties` and add your OpenWeather API key:
+
+
+
